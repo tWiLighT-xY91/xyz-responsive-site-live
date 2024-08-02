@@ -1,0 +1,183 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    font-size: 20px;
+    
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family:'Julius Sans One','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+#navbar{
+    padding: 10px;   
+}
+a {
+    text-decoration: none;
+    color: #d946ef;
+}
+a:hover, a:focus{
+    color: #e11d48;
+}
+
+#banner{
+    object-fit: cover;
+    border-radius: 9px;
+    width: 100%;
+}
+
+#about{
+    display: flex;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+#description{
+    width: 50%;
+    padding:  0 8px;
+}
+
+#team{
+    width: 50%;
+}
+
+#teamimg{
+    border-radius: 9px;
+    box-shadow: 10px,10px, lightblue;
+
+}
+
+#holet{
+    border-radius: 9px;
+}
+#menuid{
+    border-radius: 9px;
+}
+#further{
+    display: flex;
+    background-color: aliceblue;
+}
+#image{
+    width: 50%;
+    padding: 0 8px;
+}
+#info{
+    width: 50%;
+}
+#menu{
+    display: flex;
+    background-color: darkseagreen;
+}
+#menudes{
+    width: 50%;
+    padding: 0 8px;
+}
+#menudesimg{
+    width: 50%;
+}
+#jobs{
+    padding: 8px;
+    background-color: blanchedalmond;
+    border-radius: 9px;
+
+}
+.job-role{
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.location{
+    color: deeppink;
+}
+
+#lasttimg{
+    object-fit: cover;
+    width: 100%;
+    border-radius: 9px;
+    padding: 0 8px;
+    
+}
+
+
+#application{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 8px;
+    background-color: #e9d5ff;
+
+}
+#application-id div{
+    margin: 16px;
+    
+}
+
+
+
+
+#application-id label{
+    font-weight: 600;
+}
+
+#application-id input, select, textarea,t{
+    padding: 8px;
+    font-size: 1.2rem;
+    margin-top: 4px;
+    border-radius: 5px;
+    border: 1px #22c55e;
+}
+
+.form-data textarea{
+    width: 1000px;
+}
+.form-data:hover, :focus{
+    color: #e11d48;
+}
+
+.form-data input[type="submit"]{
+    background-color: #f9a8d4;
+    color: #3b0764;
+    font-weight: 600;
+    font-family: 'Dancing Script', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    cursor: pointer;
+}
+
+#tbl{
+    width: 100%; 
+    margin: 0;
+    border: 1px;
+    text-align: center;
+}
+.jobs-header th{
+    padding: 8px;
+    background-color: pink;
+    border-top: 1px;
+
+}
+.jobs-data td{
+    padding: 8px;
+    border-right: 1px;
+}
+.apply{
+    float: right;
+}
+#footer1{
+    background-color: blanchedalmond;
+    text-align: center;
+   
+   
+}
+#footer-links{
+    list-style: none;
+    display: inline;
+    margin: 0 16px;
+    
+}
+
+    
+   
+
+.linc{ 
+    color: black;
+}
