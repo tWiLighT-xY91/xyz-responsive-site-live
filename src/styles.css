@@ -9,6 +9,7 @@ body{
 @media screen and (min-width: 768px) {
     body{
         background-color: beige;
+        font-size: 24px;
     }
 }
 
